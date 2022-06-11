@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there!
 
+- 😄 Pronouns: He/him
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning: SWIFTUI
 - 📫 How to reach me: filippotagliacarne@gmail.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: ...
+
 
 <!--
 **ftagliaca/ftagliaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

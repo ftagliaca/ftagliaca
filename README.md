@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: He/him
 - 🔭 I’m currently working on Python
-- 📫 How to reach me: filippotagliacarne@gmail.com
+- 📫 How to reach me: filippotagliacarne@gmail.com or filippo.tagliacarne@stcorp.nl
 
 
 <!--
